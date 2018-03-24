@@ -47,7 +47,7 @@ $(document).ready(function() {
 
 $('.skill1').rateCircle();
 $('.skill1').rateCircle({
-  size: 150,
+  size: 100,
   lineWidth: 10,
   fontSize: 30,
   referenceValue: 100
@@ -55,10 +55,9 @@ $('.skill1').rateCircle({
 
 $('.skill2').rateCircle();
 $('.skill2').rateCircle({
-  size: 140,
+  size: 80,
   lineWidth: 10,
   fontSize: 30,
   referenceValue: 100
 });
 
-$('.skill3').rateCircle();

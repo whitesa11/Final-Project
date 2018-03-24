@@ -287,17 +287,19 @@ h4{
     background-color: #fff;
     width: 100%;
 }
+
 .rate1{
     max-width:800px;
     margin: 0 auto;
     padding-left:50px; 
 }
 
-.coding{
+.rate_circle{
     display:inline-block;
     margin: 16px 8px 8px 16px;
     text-align: center;
 }
+
 
 ul.list{
    text-align: center;
